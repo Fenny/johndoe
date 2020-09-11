@@ -1,3 +1,3 @@
 package johndoe
 
-const Version = "v1.0.0"
+const Version = "v2.0.0"
